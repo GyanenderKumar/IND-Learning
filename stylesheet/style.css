@@ -1,0 +1,13 @@
+.nav-item a:hover {
+    color: #5cb85c !important;
+}
+
+.dropdown-menu a:hover {
+    color: #5cb85c !important;
+    background-color: initial !important;
+}
+
+.jumbotron{
+    border: 0.1rem solid #5cb85c;
+    border-radius: 1.5rem;
+}
